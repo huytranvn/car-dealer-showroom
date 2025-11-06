@@ -41,6 +41,6 @@ The app connects to the backend API at `/v1/cars/public`. By default, it expects
 
 ## Demo
 
-<video width="960" heigth="720" controls>
-    <source src="docs/videos/demo.mov" type="video/mp4">
-</video>
+![ScreenRecording2025-11-06at10 23 24-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/4dae3884-ae7a-4a6f-8012-96c6fd750ff0)
+
+
