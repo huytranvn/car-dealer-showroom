@@ -39,3 +39,8 @@ yarn dev
 
 The app connects to the backend API at `/v1/cars/public`. By default, it expects the backend to be running at `http://localhost:8000`. You can change this by setting the `NEXT_PUBLIC_API_URL` environment variable.
 
+## Demo
+
+<video width="960" heigth="720" controls>
+    <source src="docs/videos/demo.mov" type="video/mp4">
+</video>
